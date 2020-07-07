@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bloc-note-static/static/css/main.7578363c.chunk.css",
+    "main.js": "/bloc-note-static/static/js/main.58bb3a98.chunk.js",
+    "main.js.map": "/bloc-note-static/static/js/main.58bb3a98.chunk.js.map",
+    "runtime-main.js": "/bloc-note-static/static/js/runtime-main.c256dbc0.js",
+    "runtime-main.js.map": "/bloc-note-static/static/js/runtime-main.c256dbc0.js.map",
+    "static/css/2.f00e1821.chunk.css": "/bloc-note-static/static/css/2.f00e1821.chunk.css",
+    "static/js/2.70e65d52.chunk.js": "/bloc-note-static/static/js/2.70e65d52.chunk.js",
+    "static/js/2.70e65d52.chunk.js.map": "/bloc-note-static/static/js/2.70e65d52.chunk.js.map",
+    "index.html": "/bloc-note-static/index.html",
+    "precache-manifest.ed642bfe892d5880c2b7844976702eaf.js": "/bloc-note-static/precache-manifest.ed642bfe892d5880c2b7844976702eaf.js",
+    "service-worker.js": "/bloc-note-static/service-worker.js",
+    "static/css/2.f00e1821.chunk.css.map": "/bloc-note-static/static/css/2.f00e1821.chunk.css.map",
+    "static/css/main.7578363c.chunk.css.map": "/bloc-note-static/static/css/main.7578363c.chunk.css.map",
+    "static/js/2.70e65d52.chunk.js.LICENSE.txt": "/bloc-note-static/static/js/2.70e65d52.chunk.js.LICENSE.txt",
+    "static/media/all.svg": "/bloc-note-static/static/media/all.f9a2228d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c256dbc0.js",
+    "static/css/2.f00e1821.chunk.css",
+    "static/js/2.70e65d52.chunk.js",
+    "static/css/main.7578363c.chunk.css",
+    "static/js/main.58bb3a98.chunk.js"
+  ]
+}
